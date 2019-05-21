@@ -20,6 +20,6 @@ Projeto Desenvolvido para a Disciplina **Sistemas Multimídia** - Professor: Adr
 > Filtro Negativo:
 <img src="https://github.com/JoanesMiranda/FiltrosDeImagens/blob/master/negativo.png" width="350" />
 
-> Filtro Multiplicação:
+> Operação Numerica - Multiplicação:
 <img src="https://github.com/JoanesMiranda/FiltrosDeImagens/blob/master/multiplicacao.png" width="350" />
 
