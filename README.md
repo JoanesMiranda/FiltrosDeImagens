@@ -15,10 +15,11 @@ Projeto Desenvolvido para a Disciplina **Sistemas Multimídia** - Professor: Adr
 # Imagens
 
 > Filtro Media:
-<img src="https://github.com/JoanesMiranda/FiltrosDeImagens/blob/master/img_inicio.png" width="350" />
+<img src="https://github.com/JoanesMiranda/FiltrosDeImagens/blob/master/media.png" width="350" />
 
 > Filtro Negativo:
-<img src="https://github.com/JoanesMiranda/FiltrosDeImagens/blob/master/img_inicio.png" width="350" />
+<img src="https://github.com/JoanesMiranda/FiltrosDeImagens/blob/master/negativo.png" width="350" />
 
 > Filtro Multiplicação:
-<img src="https://github.com/JoanesMiranda/FiltrosDeImagens/blob/master/img_inicio.png" width="350" />
+<img src="https://github.com/JoanesMiranda/FiltrosDeImagens/blob/master/multiplicacao.png" width="350" />
+
